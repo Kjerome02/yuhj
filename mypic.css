@@ -1,0 +1,7 @@
+body {
+    background-color: bisque;
+    background-image: url("wht.jpg");
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+}
